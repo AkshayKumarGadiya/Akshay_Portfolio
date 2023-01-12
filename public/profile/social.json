@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/akshaykumar-gadhiya"
+        },
+        {
+            "network" : "github",
+            "href": ""
+        },
+        {
+            "network" : "email",
+            "href": "mailto:akshaygadhiya0@gmail.com"
+        }
+    ]
+}

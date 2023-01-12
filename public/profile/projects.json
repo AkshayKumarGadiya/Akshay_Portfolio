@@ -1,0 +1,157 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/Portfolio.png",
+            "title": "Dev Portfolio",
+            "bodyText": "- Personal Portfolio Website developed in React.\n -  Fully customisable and dynamic, easily change data and images.\n - UI Component: Home Page, Experience Page, Projects Page, About Me, and Contact Me.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": ""
+                },
+                {
+                    "text": "Live",
+                    "href": ""
+                }
+            ],
+            "tags" : [
+                "React",
+                "JavaScript",
+                "Matrial UI",
+                "Portfolio"
+            ]
+        },
+        {
+            "image" : "images/projects/SPM.png",
+            "title": "Smart Project Management",
+            "bodyText": "- Developed a business management application for Bosch Rexroth's sales units and partners.\n - Designed and integrated three different dashboards for Admin, SalesUnit, and Partners. \n - Implemented Single sign-on authentication system, RESTful APIs for database interactions, and Business Intelligence in web applications.",
+            "links": [
+                {
+                    "text": "Azure DevOps",
+                    "href": ""
+                },
+                {
+                    "text": "Live",
+                    "href": ""
+                }
+            ],
+            "tags" : [
+                "Angular",
+                "TypeScript",
+                "HTML & SCSS",
+                "PHP",
+                "MySQL",
+                "Azure DevOps",
+                "LAMP Stack Server"
+            ]
+        },
+        {
+            "image" : "images/projects/quiet-hours-poster.jpg",
+            "title": "Recommendation Engine",
+            "bodyText": "- Automatically filtered and analyzed customers data and recommend relevant products to them.\n - Customers can review and puchased products by using 3D Models, Datasheets and Spare Part sheets attached with the recommended products. \n - Integrated closed feedback loop with recommended products list.",
+            "links": [
+                {
+                    "text": "Azure DevOps",
+                    "href": ""
+                },
+                {
+                    "text": "Live",
+                    "href": ""
+                }
+            ],
+            "tags" : [
+                "Angular (Local version)",
+                "React (Live vesion)",
+                "TypeScript/JavaScript",
+                "Python",
+                "RESTful APIs"
+            ]
+        },
+        {
+            "image" : "images/projects/VSP.png",
+            "title": "Virtual Streaming Platform",
+            "bodyText": "- Designed responsive and user friendly Streaming Platform (VSP) for conferences and virtual live events with global partners.\n - Features of VSP: Information about live conferences and speakers, Chatbot features with live streaming from Bosch Tube server, Photo gallery and beekast photo uploading features.",
+            "links": [
+                {
+                    "text": "Source Code",
+                    "href": ""
+                },
+                {
+                    "text": "Live",
+                    "href": ""
+                }
+            ],
+            "tags" : [
+                "Angular",
+                "TypeScript",
+                "PHP-MySQL"
+            ]
+        },
+        {
+            "image" : "images/projects/map.png",
+            "title": "Map Selector",
+            "bodyText": "- Designed Product Selector tool for identifying and searching details of Bosch Rexroth's materials.\n - Automatically changing searching pattern and links based on the customers locations.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": ""
+                },
+                {
+                    "text": "Live",
+                    "href": ""
+                }
+            ],
+            "tags" : [
+                "React",
+                "JavaScript",
+                "Material UI",
+                "GraphQL",
+                "Node.js",
+                "MySQL"
+            ]
+        },
+        {
+            "title": "Carmela & Service Center",
+            "bodyText": "- Designed and integrated different functionalities of Admin, Car seller, Customers, and Visitors modules.\n - Customers can view, filter, and purchased old car directly from car dealers. \n - Implemented seprate modules for car service centers.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": ""
+                },
+                {
+                    "text": "Live",
+                    "href": ""
+                }
+            ],
+            "tags" : [
+                "PHP",
+                "CodeIgniter",
+                "JavaScript/jQuery",
+                "HTML/CSS",
+                "Bootstrap",
+                "AJAX",
+                "MY-SQL",
+                "OOPs"
+            ]
+        },
+        {
+            "title": "Tech Craft Solution",
+            "bodyText": "- Designed and developed web application for Tech Craft Solution company, India.\n - Users can log in with email address and password.\n - Users can see services and get information about company.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": ""
+                },
+                {
+                    "text": "Live",
+                    "href": ""
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Django",
+                "PostgreSQL"
+            ]
+        }
+    ]
+}

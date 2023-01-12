@@ -1,0 +1,30 @@
+{
+    "logo" : {
+        "source": "images/Akshay.png",
+        "height" : 45,
+        "width" : 50
+    },
+    "sections": [
+        {
+            "title": "Home",
+            "href": "/"
+        },
+        {
+            "title": "Skills",
+            "href": "/skills"
+        },
+        {
+            "title": "Projects",
+            "href": "/projects"
+        },
+        {
+            "title": "About",
+            "href": "/about"
+        },
+        {
+            "title": "Contact Me",
+            "href": "/contact"
+        }
+    ]
+
+}
