@@ -8,6 +8,7 @@ import AppContext from './AppContext';
 import MainApp from './MainApp';
 import GlobalStyles from './theme/GlobalStyles';
 import { lightTheme, darkTheme } from './theme/themes';
+// import Footer from './Footer';
 
 function App() {
   window.matchMedia = null;
@@ -23,6 +24,7 @@ function App() {
           </BrowserRouter>
         </div>
       </ThemeProvider>
+      {/* <Footer /> */}
     </AppContext.Provider>
   );
 }

@@ -24,7 +24,7 @@
     "semantic-ui-css": "^2.5.0",
     "semantic-ui-react": "^2.1.4",
     "sendemail": "^4.0.3",
-    "styled-components": "^5.3.1",
+    "styled-components": "^5.3.6",
     "sweetalert2": "^11.7.0",
     "typewriter-effect": "^2.18.2",
     "use-dark-mode": "^2.3.1",

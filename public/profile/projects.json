@@ -7,7 +7,7 @@
             "links": [
                 {
                     "text": "GitHub",
-                    "href": ""
+                    "href": "https://github.com/AkshayKumarGadiya"
                 },
                 {
                     "text": "Live",
@@ -27,12 +27,8 @@
             "bodyText": "- Developed a business management application for Bosch Rexroth's sales units and partners.\n - Designed and integrated three different dashboards for Admin, SalesUnit, and Partners. \n - Implemented Single sign-on authentication system, RESTful APIs for database interactions, and Business Intelligence in web applications.",
             "links": [
                 {
-                    "text": "Azure DevOps",
-                    "href": ""
-                },
-                {
                     "text": "Live",
-                    "href": ""
+                    "href": "https://mobilehydraulics.boschrexroth.com/2022/SPM/v3/spm_live/"
                 }
             ],
             "tags" : [
@@ -46,17 +42,13 @@
             ]
         },
         {
-            "image" : "images/projects/quiet-hours-poster.jpg",
+            "image" : "images/projects/recommendation.png",
             "title": "Recommendation Engine",
             "bodyText": "- Automatically filtered and analyzed customers data and recommend relevant products to them.\n - Customers can review and puchased products by using 3D Models, Datasheets and Spare Part sheets attached with the recommended products. \n - Integrated closed feedback loop with recommended products list.",
             "links": [
                 {
-                    "text": "Azure DevOps",
-                    "href": ""
-                },
-                {
                     "text": "Live",
-                    "href": ""
+                    "href": "https://rb-mobileweb.de.bosch.com/2022/Recommendation_Engine/live"
                 }
             ],
             "tags" : [
@@ -73,12 +65,8 @@
             "bodyText": "- Designed responsive and user friendly Streaming Platform (VSP) for conferences and virtual live events with global partners.\n - Features of VSP: Information about live conferences and speakers, Chatbot features with live streaming from Bosch Tube server, Photo gallery and beekast photo uploading features.",
             "links": [
                 {
-                    "text": "Source Code",
-                    "href": ""
-                },
-                {
                     "text": "Live",
-                    "href": ""
+                    "href": "https://mobilehydraulics.boschrexroth.com/video-streaming-platform/MHSPC2021/live"
                 }
             ],
             "tags" : [
@@ -93,12 +81,8 @@
             "bodyText": "- Designed Product Selector tool for identifying and searching details of Bosch Rexroth's materials.\n - Automatically changing searching pattern and links based on the customers locations.",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": ""
-                },
-                {
                     "text": "Live",
-                    "href": ""
+                    "href": "https://mobilehydraulics.boschrexroth.com/2022/MAP_Selector/live/"
                 }
             ],
             "tags" : [
@@ -116,7 +100,7 @@
             "links": [
                 {
                     "text": "GitHub",
-                    "href": ""
+                    "href": "https://github.com/AkshayKumarGadiya"
                 },
                 {
                     "text": "Live",
@@ -140,11 +124,11 @@
             "links": [
                 {
                     "text": "GitHub",
-                    "href": ""
+                    "href": "https://github.com/AkshayKumarGadiya"
                 },
                 {
                     "text": "Live",
-                    "href": ""
+                    "href": "http://www.techcraftsolution.com/"
                 }
             ],
             "tags" : [
