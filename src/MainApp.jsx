@@ -4,7 +4,7 @@ import FallbackSpinner from './components/FallbackSpinner';
 import NavBarWithRouter from './components/NavBar';
 import Home from './components/Home';
 import endpoints from './constants/endpoints';
-import Footer from './Footer';
+// import Footer from './Footer';
 
 function MainApp() {
   const [data, setData] = useState(null);
@@ -40,7 +40,7 @@ function MainApp() {
               })}
           </Suspense>
         </Switch>
-        <Footer />
+        {/* <Footer /> */}
         {/* <Box>
           <h1 style={{
             color: "green",
