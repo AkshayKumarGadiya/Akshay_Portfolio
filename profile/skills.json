@@ -1,0 +1,112 @@
+{
+    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major programming languages, technologies, tools and platforms I have worked with:",
+    "skills": [{
+     
+            "title": "Frontend Programming Languages & Frameworks",
+            "items" : [
+     
+                {
+                    "icon": "images/angular.svg",
+                    "title": "Angular"
+                },
+                {
+                    "icon": "images/skills/react.png",
+                    "title": "React"
+                },
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript"
+                },
+                {
+                    "icon": "images/ts-logo-256.png",
+                    "title": "TypeScript"
+                },
+                {
+                    "icon": "images/HTML.png",
+                    "title": "HTML"
+                },
+                {
+                    "icon": "images/css.png",
+                    "title": "CSS"
+                },
+                {
+                    "icon": "images/bootstrap.png",
+                    "title": "Bootstrap"
+                }
+        ]},
+        {
+            "title": "Backend Languages, Databases, and Middlewares",
+            "items" : [
+                {
+                    "icon": "images/skills/android_new.png",
+                    "title": "PHP"
+                },
+                {
+                    "icon": "images/node.png",
+                    "title": "NodeJS"
+                },
+                {
+                    "icon": "images/python.png",
+                    "title": "Python"
+                },
+                {
+                    "icon": "images/RESTful.png",
+                    "title": "REST"
+                },
+                {
+                    "icon": "images/graphQL.png",
+                    "title": "GraphQL APIs"
+                },
+                {
+                    "icon": "images/MySQL.png",
+                    "title": "MySQL"
+                },
+                {
+                    "icon": "images/mongoDB1.png",
+                    "title": "MongoDB"
+                }
+            ]
+        },
+        {
+            "title" : "Version Control Systems",
+            "items": [
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                },
+                {
+                    "icon": "images/GitHub.png",
+                    "title": "GitHub"
+                },
+                {
+                    "icon": "images/bitbucket.png",
+                    "title": "Bitbucket"
+                },
+                {
+                    "icon": "images/AzureDevOps.png",
+                    "title": "Azure DevOps"
+                },
+                {
+                    "icon": "images/Azure.png",
+                    "title": "Microsoft Azure"
+                },
+                {
+                    "icon": "images/LAMP.png",
+                    "title": "LAMP Stack"
+                }
+            ]
+        },
+        {
+            "title" : "UX/UI Prototyping tool",
+            "items": [
+                {
+                    "icon": "images/Figma-logo.svg",
+                    "title": "Figma"
+                },
+                {
+                    "icon": "images/jira.png",
+                    "title": "Jira"
+                }
+            ]
+        }
+]}
